@@ -1,0 +1,15 @@
+{
+    "title": "Codebox Documentation",
+    "description": "Documentation for using Codebox.io",
+    "favicon": "https://www.codebox.io/static/images/favicon.png",
+    
+    "repo": "FriendCode/codebox-client",
+    "debug": false,
+    "entry": "README.md",
+    "styles": {
+        "header": {
+            "background": "#3c4042 url(https://www.codebox.io/static/images/bg.jpg)",
+            "background-size": "cover"
+        }
+    }
+}
