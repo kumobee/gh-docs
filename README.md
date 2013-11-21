@@ -2,6 +2,10 @@
 
 This simple tool generate a static documentation website which use the GitHub API to read markdown file. It is usefull for gh-pages static documentation website that you don't need to change (only change the markdown docs files in your repository).
 
+### Examples
+
+Codebox documenttaion: http://help.codebox.io
+
 ### How to use it?
 
 ```
